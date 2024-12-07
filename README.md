@@ -1,4 +1,4 @@
-<h1>Block de Notas</h1>
+<h1>Block de Notas [BETA]</h1>
 <h2>Block de Notas Avanzado </h2>
 Este repositorio contiene un Block de Notas Avanzado, una aplicación diseñada para facilitar la creación y edición de notas con múltiples funcionalidades de formato y personalización. Este block de notas incluye características intuitivas para enriquecer la experiencia del usuario, como guardar notas en formato .txt y opciones avanzadas de estilo de texto.
 
